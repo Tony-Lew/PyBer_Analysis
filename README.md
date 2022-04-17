@@ -10,6 +10,7 @@ This projects purpose was to analyze the Pyber ride sharing data. We looked at t
 # Results
 
 ![data image](https://user-images.githubusercontent.com/100821974/163724121-3378bc3f-6db3-457f-a9a9-9c07183dbf61.png)
+
 As this image above shows Urban ridership is almost 3 times more then the next Suburban. That being said it barely doubles the total fares, meaning the Urban drivers have more trips going shorter distances then their Suburban counter parts. 
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/100821974/163724492-589b55b0-f7c5-4fa0-9251-fb0ee562481a.png)
